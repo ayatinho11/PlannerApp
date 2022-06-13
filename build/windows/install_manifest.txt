@@ -1,0 +1,8 @@
+C:/Users/Ayat/development/projects/planner_app/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Ayat/development/projects/planner_app/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Ayat/development/projects/planner_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Ayat/development/projects/planner_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Ayat/development/projects/planner_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Ayat/development/projects/planner_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Ayat/development/projects/planner_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Ayat/development/projects/planner_app/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

@@ -1,0 +1,4 @@
+#Mon Jun 06 22:59:13 ALMT 2022
+base.0=C\:\\Users\\Ayat\\development\\projects\\planner_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

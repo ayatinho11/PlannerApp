@@ -1,0 +1,10 @@
+^C:\USERS\AYAT\DEVELOPMENT\PROJECTS\PLANNER_APP\BUILD\WINDOWS\CMAKEFILES\85A70370D10108D7551C8C2D385F14DF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ayat/development/projects/planner_app/windows -BC:/Users/Ayat/development/projects/planner_app/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Ayat/development/projects/planner_app/build/windows/planner_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
